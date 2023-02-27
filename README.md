@@ -3,9 +3,6 @@ Thomas Lesniak tjlesniak@wisc.edu
 
 Title: Fetch Rewards Coding Exercise - Data Analytics Internship
 
-Description: This repository contains the code and data for analyzing the loyalty program of a hypothetical company. The purpose of the analysis is to gain 
-insights into user behavior, identify potential fraud, and provide recommendations for improving the program.
-
 Code: The analysis was performed using Python 3. The code for querying the database and generating visualizations was written in a Jupyter notebook using Pandas
 and Matplotlib libraries. The notebook can be run using Jupyter.
 
