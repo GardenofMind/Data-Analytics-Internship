@@ -3,8 +3,7 @@ Thomas Lesniak tjlesniak@wisc.edu
 
 Title: Fetch Rewards Coding Exercise - Data Analytics Internship
 
-Code: The analysis was performed using Python 3.9.12. The code for querying the database and generating visualizations was written in a Jupyter notebook using Pandas
-and Matplotlib libraries. The notebook can be run using Jupyter.
+Code: The analysis was performed using Python 3.9.12 in Jupyter notebook using Pandas, sqlite3 and Matplotlib libraries. 
 
 Instructions: 
   1. Clone the repository onto your local machine. 
